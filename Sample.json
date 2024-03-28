@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Matthew Cappucci",
+      "title": "The sun just launched three huge solar flares in 24 hours. What it means. - The Washington Post",
+      "description": "The latest outburst is the most intense of the current 11-year solar cycle.",
+      "url": "https://www.washingtonpost.com/weather/2024/02/22/solar-flares-cycle-xclass-radio-att/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUN4ZSVXW5C2HANUZNYCGF2MVA.jpeg&w=1440",
+      "publishedAt": "2024-02-23T04:36:32Z",
+      "content": "Three top-tier X-class solar flares launched off the sun between Wednesday and Thursday. The first two occurred seven hours apart, coming in at X1.9 and X1.6 magnitude respectively. The third, the mo… [+4280 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sean Lyngaas",
+      "title": "US officials combing leaked documents from Chinese tech firm for clues about Chinese hacking campaigns - CNN",
+      "description": "US officials have been scouring a trove of newly leaked documents from a Chinese tech firm for clues on how the government in Beijing allegedly uses the company in extensive hacking campaigns, multiple US cybersecurity officials familiar with the matter told …",
+      "url": "https://www.cnn.com/2024/02/22/politics/leaked-documents-tech-firm-chinese-hacking/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24052619456780.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-02-23T04:12:00Z",
+      "content": "US officials have been scouring a trove of newly leaked documents from a Chinese tech firm for clues on how the government in Beijing allegedly uses the company in extensive hacking campaigns, multip… [+5309 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Macworld" },
+      "author": "Michael Simon",
+      "title": "Apple turns to post-quantum cryptography to future-proof iMessage security in iOS 17.4 - Macworld",
+      "description": "Apple taps into post-quantum cryptography to attain the highest-ever encryption for conversations.",
+      "url": "https://www.macworld.com/article/2243580/imessage-security-protocol-post-quantum-cryptography-level-3.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2024/02/apple-messages-imessage-2.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2024-02-23T03:44:00Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWe already know that… [+3121 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Lauren Irwin",
+      "title": "‘Norovirus’ slams Northeast US hardest in recent weeks: CDC - The Hill",
+      "description": "A stomach virus known as the “norovirus” is spreading across the Northeast region of the United States, according to data from the Centers for Disease Control and Prevention (CDC). The three-week average positive tests for norovirus in the region reached 13.9…",
+      "url": "https://thehill.com/policy/healthcare/4484460-norovirus-slams-northeast-us-hardest-in-recent-weeks-cdc/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/CDC.png?w=1280",
+      "publishedAt": "2024-02-23T03:07:00Z",
+      "content": "Skip to content\r\nA stomach virus known as the “norovirus” is spreading across the Northeast region of the United States, according to data from the Centers for Disease Control and Prevention (CDC).\r\n… [+1568 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "William Harwood",
+      "title": "First U.S. moon landing since 1972 as private spacecraft touches down on lunar surface - CBS News",
+      "description": "Intuitive Machines's Odysseus lunar lander became the first privately-built spacecraft to safely complete a moon landing.",
+      "url": "https://www.cbsnews.com/news/moon-landing-spacecraft-lunar-surface-today/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/22/75945b23-9eb9-4305-b4fd-bd8a222265a3/thumbnail/1200x630/634b7e3bc075993e2e982a4c3eff5446/lander-artist1.jpg?v=99cbd804c3e0f1c84ac31cc518eb26be",
+      "publishedAt": "2024-02-23T02:58:00Z",
+      "content": "Intuitive Machines' Odysseus lander touched down on the moon Thursday after a historic, nail-biting descent following a last-minute navigation sensor malfunction, becoming the first U.S.-built spacec… [+7390 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Athletic" },
+      "author": "The Athletic MLB Staff",
+      "title": "Nike's MLB uniform rollout reaches new stage of frustration — a pants shortage - The Athletic",
+      "description": "“The universal concern,” MLBPA executive director Tony Clark says, “is the pant.”",
+      "url": "https://theathletic.com/5293760/2024/02/22/mlb-uniforms-pants-shortage-nike-fanatics/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/02/22171849/0222Reds-scaled.jpg",
+      "publishedAt": "2024-02-23T02:57:03Z",
+      "content": "By Stephen J. Nesbitt, Patrick Mooney and C. Trent Rosecrans\r\nGOODYEAR, Ariz. When players walked into the Cincinnati Reds clubhouse on Thursday morning, they found white and gray baseball pants on t… [+9338 chars]"
+    },
+    {
+      "source": { "id": null, "name": "HuffPost" },
+      "author": "AP",
+      "title": "Hydeia Broadbent, A Prominent HIV And AIDS Activist, Dies At 39 - HuffPost",
+      "description": "A prominent HIV/AIDS activist known for her inspirational talks in the 1990s as a young child to reduce the stigma surrounding the virus she was born with has died.",
+      "url": "https://www.huffpost.com/entry/hydeia-broadbent-dies-obit_n_65d800bfe4b0cc1f2f7b425c",
+      "urlToImage": "https://img.huffingtonpost.com/asset/65d801b92300005200728ae9.jpeg?cache=EFtpOi6KK5&ops=1200_630",
+      "publishedAt": "2024-02-23T02:27:32Z",
+      "content": "LAS VEGAS (AP) Hydeia Broadbent, the HIV/AIDS activist who came to national prominence in the 1990s as a young child for her inspirational talks to reduce the stigma surrounding the virus she was bor… [+6941 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Sean Leahy",
+      "title": "Charlie Woods, Tiger's son, shoots 86 in 1st attempt to qualify for PGA Tour event, with fan behavior an issue - Yahoo Sports",
+      "description": "Woods was followed by a group of more than 50 fans, some of whom did not behave well.",
+      "url": "https://sports.yahoo.com/charlie-woods-tigers-son-shoots-86-in-1st-attempt-to-qualify-for-pga-tour-event-with-fan-behavior-an-issue-171702683.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ODWw9Tdd4b3JHvVtGjttjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/b8d83cb0-d197-11ee-bf19-8a9475079997",
+      "publishedAt": "2024-02-23T02:19:00Z",
+      "content": "Charlie Woods hits his second shot on the first hole during pre-qualifying for The Cognizant Classic in The Palm Beaches at Lost Lake Golf Club in Hobe Sound, Florida. (Photo by Cliff Hawkins/Getty I… [+2680 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": null,
+      "title": "Google pauses Gemini’s image tool for people after anti-‘woke’ backlash - Al Jazeera English",
+      "description": null,
+      "url": "https://www.aljazeera.com/economy/2024/2/23/google-pauses-geminis-image-tool-for-people-after-anti-woke-backlash",
+      "urlToImage": null,
+      "publishedAt": "2024-02-23T02:00:20Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Lynette Rice",
+      "title": "So Long, Sam Waterston: How ‘Law & Order’ Bid Farewell To His Character Jack McCoy - Deadline",
+      "description": "How Law & Order Said Goodbye To Sam Waterston's Jack McCoy",
+      "url": "http://deadline.com/2024/02/sam-waterston-exit-law-and-order-jack-mccoy-1235833209/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/02/NUP_203326_01060.jpg?w=1024",
+      "publishedAt": "2024-02-23T02:00:00Z",
+      "content": "SPOILER ALERT! This story contains plot points from Thursday’s episode of Law &amp; Order.\r\nAfter more than 400 episodes, Sam Waterston walked out of the courthouse for the final time as District Att… [+2565 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Marc Ramirez",
+      "title": "Oklahoma teenager's death brings term 'gender expansive' to the light - USA TODAY",
+      "description": "Gender expansive, a term around since at least 2012, has been put in the spotlight with the death of Oklahoma teen Nex Benedict. What the term means.",
+      "url": "https://www.usatoday.com/story/news/nation/2024/02/22/gender-expansive-nex-benedict-oklahoma/72700938007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/-mm-/163eefd00a966dd25eeb369e191c3c09831aca94/c=0-123-3600-2157/local/-/media/2018/02/05/USATODAY/USATODAY/636534164413436285-AP-Transgender-Teens-Study.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp",
+      "publishedAt": "2024-02-23T01:58:30Z",
+      "content": "The death of 16-year-old Nex Benedict in the wake of a fight at an Owasso, Oklahoma, high school has drawn widespread attention after reports that the teen was long bullied for their gender identity,… [+5706 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PEOPLE" },
+      "author": "Angel Saunders, Lawrence Yee",
+      "title": "Andy Cohen Apologizes After Brandi Glanville Accuses Him of Sexual Harassment, Says Explicit Proposal Was 'Meant in Jest' - Yahoo Entertainment",
+      "description": "Glanville alleges that Cohen sent her an inappropriate recording back in 2022",
+      "url": "https://people.com/brandi-glanville-accuses-andy-cohen-of-sexual-harassment-8599033",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1JER.5b5LEpDdHo2G9i6Iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/people_218/ee2018240c6352f7c4e7108ba5d49fa6",
+      "publishedAt": "2024-02-23T01:52:00Z",
+      "content": "Glanville alleges that Cohen sent her an inappropriate recording back in 2022\r\nCharles Sykes/Bravo;Cindy Ord/Getty ;\r\n Brandi Glanville, Andy Cohen\r\nAndy Cohen has issued Brandi Glanville an apology … [+3928 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Brian Evans",
+      "title": "Stock futures are little changed after S&P 500, Nasdaq notch best day in more than a year: Live updates - CNBC",
+      "description": "Nvidia helped lift the S&P 500 and Nasdaq on Thursday as the chipmaker surged on hot earnings results.",
+      "url": "https://www.cnbc.com/2024/02/22/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107267828-1688677864128-NYSE-Trading-Floor-Photo-20230706-Press-2.jpg?v=1691102281&w=1920&h=1080",
+      "publishedAt": "2024-02-23T01:40:00Z",
+      "content": "Stock futures were little changed on Thursday evening, after the S&amp;P 500 and the Nasdaq Composite posted their best day since early 2023.\r\nFutures tied to the Dow Jones Industrial Average ticked … [+1534 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Lena H. Sun, Lauren Weber",
+      "title": "Florida surgeon general defies science amid measles outbreak - The Washington Post",
+      "description": "Florida surgeon general Joseph A. Ladapo failed to urge parents to vaccinate their children or keep unvaccinated students home from school as a precaution.",
+      "url": "https://www.washingtonpost.com/health/2024/02/22/florida-measles-outbreak-ladapo/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNJXYMUF7EI6ZFI4DYGMG4R6KM.jpg&w=1440",
+      "publishedAt": "2024-02-23T01:26:22Z",
+      "content": "As a Florida elementary school tries to contain a growing measles outbreak, the states top health official is giving advice that runs counter to science and may leave unvaccinated children at risk of… [+6871 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Federalreserve.gov" },
+      "author": null,
+      "title": "Speech by Governor Waller on the economic outlook - Federal Reserve",
+      "description": "Thank you, Dean Dunham and the University of St. Thomas for the opportunity to speak to you today.  1     Given that this event is co-sponsored by the Notre Da",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20240222a.htm",
+      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "publishedAt": "2024-02-23T00:35:57Z",
+      "content": "Thank you, Dean Dunham and the University of St. Thomas for the opportunity to speak to you today.1 Given that this event is co-sponsored by the Notre Dame Club of Minnesota, and I taught at Notre Da… [+15633 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Science.org" },
+      "author": "Science",
+      "title": "Sweeping chronic fatigue study brings clues but not clarity to mysterious syndrome - Science",
+      "description": null,
+      "url": "https://www.science.org/content/article/sweeping-chronic-fatigue-study-brings-clues-not-clarity-mysterious-syndrome",
+      "urlToImage": null,
+      "publishedAt": "2024-02-23T00:14:48Z",
+      "content": null
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Lawyers for ex-FBI informant, charged with lying about Bidens, say he's been re-arrested - POLITICO",
+      "description": "Alexander Smirnov had been meeting with his lawyers at the time of his second arrest.",
+      "url": "https://www.politico.com/news/2024/02/22/alexander-smirnov-lawyers-fbi-00142840",
+      "urlToImage": "https://static.politico.com/fc/9c/1d0a9ebd403cb02f803a1b0bf141/hunter-biden-fbi-informant-60905.jpg",
+      "publishedAt": "2024-02-23T00:08:24Z",
+      "content": "It should further be noted that the fact that the Defendant was attending a legal consultation meeting at his attorneys office contradicts the notion that he is a risk of flight, Chesnoff wrote.\r\nIts… [+1984 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sam Fossum, Priscilla Alvarez, Kevin Liptak",
+      "title": "Biden administration will impose sanctions on more than 500 targets in response to Navalny death - CNN",
+      "description": "The Biden administration will impose a fresh slate of sanctions on more than 500 targets on Friday in response to the death of opposition figure Alexey Navalny and on the eve of Russia’s two-year war in Ukraine, according to a Treasury official.",
+      "url": "https://www.cnn.com/2024/02/22/politics/sanctions-russia-navalny-death/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/d84e1e18-f3d1-4500-9364-6706bfdf2689.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-02-22T23:59:00Z",
+      "content": "The Biden administration will impose a fresh slate of sanctions on more than 500 targets on Friday in response to the death of opposition figure Alexey Navalny and on the eve of Russias two-year war … [+2078 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Priscilla DeGregory",
+      "title": "'Rust' armorer posed with live rounds in box of blanks on set, jurors hear as trial opens - New York Post ",
+      "description": "A New Mexico jury was shown damning evidence at the start of the trial against “Rust” movie armorer Hannah Gutierrez-Reed — including a photo of her pictured with a live round on set.",
+      "url": "https://nypost.com/2024/02/22/us-news/rust-armorer-hannah-gutierrez-reeds-trial-opens-with-damning-evidence/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/newspress-collage-79gto36yt-1708644572910.jpg?quality=75&strip=all&1708626685&w=1024",
+      "publishedAt": "2024-02-22T23:21:16Z",
+      "content": "Damning evidence kicked off the involuntary manslaughter trial against “Rust” armorer Hannah Gutierrez-Reed Thursday, as jurors reviewed photos of live rounds found on the set.\r\nSpecial prosecutor Ja… [+6524 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Houston Chronicle" },
+      "author": "Shakari Briggs",
+      "title": "Texas judge rules Barbers Hill ISD students' long hair not protected by CROWN Act - Houston Chronicle ",
+      "description": "Lawyers representing Barbers Hill ISD and Darryl George appeared in court Thursday to determine if the district's policy violates the CROWN Act.",
+      "url": "https://www.houstonchronicle.com/news/houston-texas/article/texas-crown-act-barbers-hill-isd-darryl-george-18681421.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/36/30/71/24743539/5/rawImage.jpg",
+      "publishedAt": "2024-02-22T23:15:51Z",
+      "content": "Dr. Candice Matthews, left, listens as state representative Ron Reynolds, right, with Darryl George, center, makes comments before a hearing regarding Georges punishment for violating school dress co… [+12693 chars]"
+    }
+  ]
+}
