@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import NewsItems from "./NewsItems";
 import Spinner from "./Spinner";
+import "../App.css";
 
 const News = (props) => {
   const [articles, setArticles] = useState([]);
@@ -57,7 +58,7 @@ const News = (props) => {
         {loading ? (
           <Spinner />
         ) : (
-          <div className="row gap-2 justify-content-between my-3">
+          <div className="gridName">
             {articles &&
               articles.map((article, index) => (
                 <NewsItems
@@ -99,6 +100,9 @@ const News = (props) => {
             Next &rarr;
           </button>
         </div>
+      </div>
+      <div className="footer">
+      ©2024 Vishal Virani. All rights reserved.
       </div>
     </>
   );
